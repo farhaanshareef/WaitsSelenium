@@ -27,6 +27,6 @@ pip install -r requirements.txt
 3. Run the testcase by running the command  
 
 
-python run <filename>
+python run <<-filename>>
   
   
