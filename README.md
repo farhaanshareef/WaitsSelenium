@@ -15,12 +15,18 @@ Fluent wait allows you to define more complex conditions for waiting, such as wa
 To use the examples and code provided in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+
+
 git clone https://github.com/farhaanshareef/WaitsSelenium.git
 
-2. Install the required dependencies by running the following command:
+2. Install the required dependencies by running the following command: 
+
+
 pip install -r requirements.txt
 
-3. Run the testcase by running the command
+3. Run the testcase by running the command  
+
+
 python run <filename>
   
   
